@@ -24,5 +24,8 @@ This project simulates the core functionalities of Telegram Desktop. It is **not
 2. Create a user account to start managing groups, channels, and contacts.
 3. Use the interface to add, edit, or remove contacts, channels, and groups.
 
+## Contact
+[toufik.sam2022@gmail.com] - [www.linkedin.com/in/toufik-sam-bouafia-455773337]
+
 ![image alt](https://github.com/Toufik-Sam/TelegramClone/blob/6e79f3c3cea7c5d4c1171050680073d243577092/login.PNG)
 ![image alt](https://github.com/Toufik-Sam/TelegramClone/blob/6e79f3c3cea7c5d4c1171050680073d243577092/MainForm.PNG)
